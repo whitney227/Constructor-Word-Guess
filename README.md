@@ -15,7 +15,12 @@ To begin the command-line prompts, run
 ```
 node index.js
 ```
+You should be prompted with a question like this:
+
 ![node prompt](/node-prompt.png)
+
+
+The user will need to enter a letter from the alphabet before receiving further prompts.
 
 If the user guesses correctly, the letter guessed will appear and the remaining letters will be left blank with an underscore.  The user may choose another letter until all the blanks have been filled.
 
